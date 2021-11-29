@@ -22,4 +22,7 @@ public class Homework {
 	public static void getInfo () {
 		System.out.println("Personal information");
 }
+	public static void employee() {
+		System.out.println("employee information");
+}
 }
