@@ -9,4 +9,8 @@ public class Homework {
 		System.out.println("Pushing a new method...");
 		System.out.println("Adding new Method");
 	}
+	
+	public static void addMethod (int x, int y) {
+		System.out.println(x + y);
+	}
 }
