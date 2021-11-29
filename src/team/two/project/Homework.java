@@ -18,6 +18,7 @@ public class Homework {
 	
 	public static void Stash(String repository) {
 		System.out.println("Jaime_Attempting to push to gitHub");
+		System.out.println("I am pushing a line to gitHip");
 	}
 	public static void getInfo () {
 		System.out.println("Personal information");
