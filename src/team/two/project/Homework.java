@@ -24,3 +24,11 @@ public class Homework {
 		System.out.println("Checking on pulling & Pushing");
 	}
 }
+
+	public static void employee() {
+		System.out.println("employee information");
+		System.out.println("***************");
+		
+}
+	
+}
