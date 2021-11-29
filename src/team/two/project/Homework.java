@@ -11,4 +11,8 @@ public class Homework {
 		String teamName = "TeamTwo";
 		System.out.println(teamName);
 	}
+	
+	public static void Stash(String repository) {
+		System.out.println("Jaime_Attempting to push to gitHub");
+	}
 }
