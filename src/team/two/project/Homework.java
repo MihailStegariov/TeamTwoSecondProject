@@ -22,15 +22,8 @@ public class Homework {
 		System.out.println("Checking on pulling & Pushing");
 		
 		System.out.println("Checking on pulling & Pushing");
+		System.out.println("Latest Push");
 	}
-
-
-	public static void employee() {
-		System.out.println("employee information");
-		System.out.println("***************");
-		
-		//Najib
-		System.out.println("Make sure to stash first before pushing and pulling");
 }
 	
 }
