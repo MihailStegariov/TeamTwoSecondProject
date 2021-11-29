@@ -7,13 +7,12 @@ public class Homework {
 		System.out.println(" Lets try to pull and push");
 		
 		System.out.println("Pushing a new method...");
-<<<<<<< HEAD
+
 		System.out.println("Adding new Method");
-=======
 		
 		String teamName = "TeamTwo";
 		System.out.println(teamName);
->>>>>>> branch 'master' of https://github.com/MihailStegariov/TeamTwoSecondProject.git
+
 	}
 	
 	public static void Stash(String repository) {
