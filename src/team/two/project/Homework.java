@@ -7,5 +7,6 @@ public class Homework {
 		System.out.println(" Lets try to pull and push");
 		
 		System.out.println("Pushing a new method...");
+		System.out.println("Adding new Method");
 	}
 }
